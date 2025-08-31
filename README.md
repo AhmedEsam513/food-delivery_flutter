@@ -24,16 +24,16 @@ The goal is to showcase how Flutter UIs can scale gracefully across devices, scr
 ## 📱 Screenshots
 - Home Screen
 
-| Portrait View                                | Landscape View                                    |
-|----------------------------------------------|---------------------------------------------------|
-| `![Portrait](screenshots/home_portrait.jpg)` | `![Landscape](screenshots/home_landscape.jpg)`    |
+| Portrait View | Landscape View                                    |
+|---------------|---------------------------------------------------|
+| `![Portrait](screenshots/portrait.jpg)` | `![Landscape](screenshots/home_landscape.jpg)`    |
 
 
 - Profile Screen
 
-| Portrait View                                   | Landscape View                                    |
-|-------------------------------------------------|---------------------------------------------------|
-| `![Portrait](screenshots/profile_portrait.jpg)` | `![Landscape](screenshots/profile_landscape.jpg)` |
+| Portrait View | Landscape View                                    |
+|---------------|---------------------------------------------------|
+| `![Portrait](screenshots/profile_portrait.jpg)` | `![Landscape](screenshots/profile_landscape.jpg)`    |
 
 ---
 
